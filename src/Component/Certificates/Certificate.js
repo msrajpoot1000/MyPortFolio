@@ -46,7 +46,7 @@ function Teams() {
                         {/* Your carousel items */}
                         <div >
                             <img src={AmcatImage}/>
-                            <h2 >District Cricket Certificate</h2>
+                            <h2 >AMCAT Certificate</h2>
                         </div>
                         <div>
                             <img src={redhat_certificate} />
@@ -54,7 +54,7 @@ function Teams() {
                         </div>
                         <div>
                             <img src={districtCricket} />
-                            <h2>AMCAT Certificate</h2>
+                            <h2>District Cricket Certificate</h2>
                         </div>
                         <div>
                             <img src={Blood_donation}></img>

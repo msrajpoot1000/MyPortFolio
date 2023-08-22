@@ -14,7 +14,7 @@ import ArchiTectWebsite from "../images/ArchiTectWebsite.png";
 function Projects() {
     return (
         <>
-            <section className="services" id="services">
+            <section className="services about" id="services">
                 <div className="max-width">
                     <h2 className="title">My Projects</h2>
                     <div className="serv-content">
@@ -105,3 +105,7 @@ function Projects() {
 }
 
 export default Projects;
+
+
+
+
